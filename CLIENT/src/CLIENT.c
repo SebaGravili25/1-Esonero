@@ -18,8 +18,8 @@
 #include <arpa/inet.h>
 #include <netinet/in.h>
 #include <netdb.h>
-#define closesocket close
 #endif
+#define closesocket close
 
 #include <stdio.h>
 #include <ctype.h>
